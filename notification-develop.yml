@@ -1,2 +1,4 @@
 micro:
   path: /srv/template/micro.docx
+server:
+  port: 9090
